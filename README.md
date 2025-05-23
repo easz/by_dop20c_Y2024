@@ -2,7 +2,7 @@
 
 Cached map tiles from publicly available aerial images (open data) provided by [Bayerischen Vermessungsverwaltung](https://geodaten.bayern.de/opengeodata/).
 
-Summary: Aerial images of Bayern with 20cm resolution (August 2024)
+Summary: Aerial images of Bayern with 20cm resolution (June to September 2024)
 
 Source: https://geodatenonline.bayern.de/geodatenonline/seiten/wms_dop_hist
 
